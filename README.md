@@ -1,2 +1,13 @@
-# DIO_Machine_Learning_Eric
-O projeto utiliza TensorFlow e MobileNetV2 para classificação de imagens de animais, empregando transfer learning. O objetivo é desenvolver um sistema robusto de reconhecimento de espécies a partir de um dataset (Meus_animais_Teste.zip) para identificar e categorizar animais.
+Projeto de Classificação de Animais
+
+Este projeto implementa um classificador de imagens de animais utilizando Transfer Learning com a arquitetura pré-treinada MobileNetV2 do TensorFlow.
+
+Funcionalidades:
+Classificação de diversas espécies de animais a partir de imagens.
+Utiliza redes neurais convolucionais (CNNs) para alta precisão.
+Baseado em um dataset customizado (Meus_animais_Teste.zip).
+Tecnologias Utilizadas
+TensorFlow: Principal framework de Machine Learning.
+Keras: API de alto nível para construção e treinamento de modelos.
+MobileNetV2: Modelo pré-treinado para extração de características.
+Python: Linguagem de programação principal.
